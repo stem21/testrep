@@ -1,3 +1,5 @@
 /**
  * 
  */
+
+document.write('hello world');
