@@ -2,6 +2,6 @@
  * 
  */
 
-document.write('hello world');
-
 // fubar
+document.write('hello world');
+document.write('hello world edit online');
