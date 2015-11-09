@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v0.2-alpha">
+ <AREAT>Standard Funktionsgruppe</AREAT>
+ <TT_RS38L_INCL>
+  <RS38L_INCL>
+   <FUNCNAME>Z_MSTEI_F_CALC</FUNCNAME>
+   <INCLUDE>LZZ_MSTEI_FGRU01</INCLUDE>
+  </RS38L_INCL>
+ </TT_RS38L_INCL>
+ <RSO_T_OBJNM>
+  <SOBJ_NAME>LZZ_MSTEI_FGRTOP</SOBJ_NAME>
+  <SOBJ_NAME>SAPLZZ_MSTEI_FGR</SOBJ_NAME>
+ </RSO_T_OBJNM>
+</abapGit>
